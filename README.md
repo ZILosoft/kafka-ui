@@ -12,11 +12,6 @@
 
 
 
-
-SUPERMEGATEST5 2adags
-
-
-
 <p align="center">
     <a href="https://docs.kafka-ui.provectus.io/">DOCS</a> • 
     <a href="https://docs.kafka-ui.provectus.io/configuration/quick-start">QUICK START</a> • 
